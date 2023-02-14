@@ -16,7 +16,9 @@ lors de la reception du fichier nous allons proceder
 
 
 3- en suite ouvrons le terminal et se rendre dans l arborescence du fichier et tapons la commande file #nom du fichier# pour voir le format
-4- installer gtkhash #nom du fichier# pour verifier si le hash fourni dans le fichier README est exacte 
+
+4- installer gtkhash #nom du fichier# pour verifier si le hash fourni dans le fichier README est exacte
+
 5- installer foremost qui va nous permettre d analyser le fichier ensuite executer foremost #nom du fichier# etant dans l aborescence ou se trouve le fichier
 
 il existe plusieurs methodes pour le faire :
