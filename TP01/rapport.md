@@ -25,16 +25,15 @@ lors de la reception du fichier nous allons proceder
 
 il existe plusieurs methodes pour le faire :
 
-premiere Methode
+**PREMIERE METHODE**
 
 6- un dossier output va se creer, se deplacer dans le dossier et vous aurez un fichier audit.txt et 02 dossiers jpg et png ses images aui seront uniauement visibles en ligne de commande 
 
 7- entrer dans le chemin du png et taper la commande "eog nom image.png"
 
-8- l image sera accesssible  
+8- l'image sera accesssible et visible depuis le dossier en interface graphique
    
-
-deuxieme Methode
+**DEUXIEME METHODE**
 
 9- le fichier output va se créer contenant le fichier audit.txt et 02 dossiers jpg et png, donner les droits d'execution de modificationet de lecture au dossier avec la commande "chmod 777 output"
 
