@@ -23,6 +23,8 @@ lors de la reception du fichier nous allons proceder
 
 5- installer foremost qui va nous permettre d analyser le fichier ensuite executer foremost #nom du fichier# etant dans l aborescence ou se trouve le fichier
 
+**UBUNTU**
+
 il existe plusieurs methodes pour le faire :
 
 **PREMIERE METHODE**
@@ -44,4 +46,11 @@ il existe plusieurs methodes pour le faire :
 12 - vous retrouverez le flag 'l'image en question'
 ![00016520](https://user-images.githubusercontent.com/80653459/218674158-01a307fd-69ea-428b-afed-09917317aa65.png)
 
+**KALI LINUX**
+
+apres avoir installer foremost et executer la commande "foremost USB_Image"
+
+donner juste les droits d'execution, modificationet lecture aux Dossiers Output et Png en utilisant la commande "chmod 777 output" entrer dans output et saisiser "chmod 777 png"
+
+aller dans la zoneou a été extrait son ZIP et aller jusqu'au fichier PNG les images seront visibles 
 
