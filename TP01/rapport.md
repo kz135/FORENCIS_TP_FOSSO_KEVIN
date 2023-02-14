@@ -9,22 +9,29 @@ Les analystes forensiques utiliseront une méthode scientifique rigoureuse pour 
 lors de la reception du fichier nous allons proceder 
 
 1- dezipper le dossier 
-2- recuperer le fichier sans toutefois l executer et scanner en ligne grace a l outil VirusTotal pour voir a quel type de virus on a a faire 
+
+2- recuperer le fichier sans toutefois l'executer et scanner en ligne a  l'aide de l'outil VirusTotal pour voir a quel type de virus on a à faire 
+
+![Capture](https://user-images.githubusercontent.com/80653459/218672985-23162e24-5d9d-4e14-8688-3ed50fc6b136.PNG)
+
 
 3- en suite ouvrons le terminal et se rendre dans l arborescence du fichier et tapons la commande file #nom du fichier# pour voir le format
 4- installer gtkhash #nom du fichier# pour verifier si le hash fourni dans le fichier README est exacte 
 5- installer foremost qui va nous permettre d analyser le fichier ensuite executer foremost #nom du fichier# etant dans l aborescence ou se trouve le fichier
 
-premiere etape
+il existe plusieurs methodes pour le faire :
+
+premiere Methode
 
 6- un dossier output va se creer, se deplacer dans le dossier et vous aurez un fichier audit.txt et 02 dossiers jpg et png ses images aui seront uniauement visibles en ligne de commande 
 7- entrer dans le chemin du png et taper lq commande eog #nom image.png#
 8- l image sera accesssible  
    
 
-deuxieme etape
+deuxieme Methode
 
-9- le fichier output va se créer contenant le fichier audit.txt et 02 dossiers jpg et png, donner les droits d'execution de modificationet de lecture au dossier avec la commande chmod 777 output 
+9- le fichier output va se créer contenant le fichier audit.txt et 02 dossiers jpg et png, donner les droits d'execution de modificationet de lecture au dossier avec la commande "chmod 777 output"
+
 10- entrer dans le dossier output et donner les memes droits au dossier png et jpg "chmod 777 nomdossier"
 11-ouvrir le dossier png et les images seront accessibles grace a un double clique en interface graphique "deposé le dossier output dans un emplacement facilement accessible par vous"
 
