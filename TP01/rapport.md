@@ -23,7 +23,7 @@ lors de la reception du fichier nous allons proceder
 
 5- installer foremost qui va nous permettre d analyser le fichier ensuite executer foremost #nom du fichier# etant dans l aborescence ou se trouve le fichier
 
-**SOUS UBUNTU**
+" **SOUS UBUNTU** "
 
 il existe plusieurs methodes pour le faire :
 
@@ -35,7 +35,7 @@ il existe plusieurs methodes pour le faire :
 
 8- l'image sera accesssible et visible depuis le dossier en interface graphique
    
-" **DEUXIEME METHODE** "
+**DEUXIEME METHODE** 
 
 9- le fichier output va se créer contenant le fichier audit.txt et 02 dossiers jpg et png, donner les droits d'execution de modificationet de lecture au dossier avec la commande "chmod 777 output"
 
