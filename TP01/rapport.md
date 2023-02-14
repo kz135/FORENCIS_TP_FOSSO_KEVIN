@@ -18,6 +18,8 @@ lors de la reception du fichier nous allons proceder
 3- en suite ouvrons le terminal et se rendre dans l arborescence du fichier et tapons la commande file #nom du fichier# pour voir le format
 
 4- installer gtkhash #nom du fichier# pour verifier si le hash fourni dans le fichier README est exacte
+![Capture 1](https://user-images.githubusercontent.com/80653459/218673880-d2bff66b-95ed-48f4-9492-a063c85fadb4.PNG)
+
 
 5- installer foremost qui va nous permettre d analyser le fichier ensuite executer foremost #nom du fichier# etant dans l aborescence ou se trouve le fichier
 
@@ -26,7 +28,9 @@ il existe plusieurs methodes pour le faire :
 premiere Methode
 
 6- un dossier output va se creer, se deplacer dans le dossier et vous aurez un fichier audit.txt et 02 dossiers jpg et png ses images aui seront uniauement visibles en ligne de commande 
-7- entrer dans le chemin du png et taper lq commande eog #nom image.png#
+
+7- entrer dans le chemin du png et taper la commande "eog nom image.png"
+
 8- l image sera accesssible  
    
 
@@ -35,7 +39,10 @@ deuxieme Methode
 9- le fichier output va se créer contenant le fichier audit.txt et 02 dossiers jpg et png, donner les droits d'execution de modificationet de lecture au dossier avec la commande "chmod 777 output"
 
 10- entrer dans le dossier output et donner les memes droits au dossier png et jpg "chmod 777 nomdossier"
+
 11-ouvrir le dossier png et les images seront accessibles grace a un double clique en interface graphique "deposé le dossier output dans un emplacement facilement accessible par vous"
 
 12 - vous retrouverez le flag 'l'image en question'
+![00016520](https://user-images.githubusercontent.com/80653459/218674158-01a307fd-69ea-428b-afed-09917317aa65.png)
+
 
