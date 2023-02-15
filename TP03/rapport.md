@@ -46,6 +46,10 @@ contenu du fichier zip
 
 ![image](https://user-images.githubusercontent.com/80653459/219071723-393af2ef-85c9-46e4-8120-b87da152e837.png)
 
+CONCLUSION 
+
+en somme il etait question pour nous de voir toutes les modification dont notre cite a subit pendant sont attaque nous avons remarqué le creation d'un dossier qui contenait un fichier txt 
+
 
 
  
