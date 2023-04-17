@@ -1,4 +1,4 @@
-reformulons le sujet 
+reformulons le sujet g
 
 Lors d'une pause près du parking du commissariat, un agent de police trouve une clé USB sur le sol. Étant conscient des dangers potentiels que peuvent présenter les périphériques USB trouvés, l'agent décide de ne pas brancher la clé sur son ordinateur personnel et de la faire examiner par le service d'analyse forensique du commissariat.
 
